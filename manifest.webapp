@@ -1,0 +1,15 @@
+{
+    "name": "Zmanim",
+    "description": "View significant times in Jewish law",
+    "launch_path": "/index.html",
+    "icons": {
+        "512": "/icon-512.png",
+        "128": "/icon-128.png"
+    },
+    "developer": {
+        "name": "Esther Goldberg",
+        "url": "https://github.com/esther-goldberg"
+    },
+    "default_locale": "en-US",
+    "chrome": {"navigation": false}
+}

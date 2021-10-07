@@ -1,0 +1,13 @@
+@import 'main.css';
+
+hr {
+    border: none;
+    height: 1px;
+    color: #999;
+    background-color: #999;
+}
+
+.focusable:focus {
+    background-color: var(--color-purple-pressed);
+    color: #fff;
+}
